@@ -1,6 +1,6 @@
-# goodbyerecruitment.com
+# Goodbye recruitment!
 
-The recruitment platform for developers
+The recruitment platform for developers.
 
 * Criteria for job searches / job offer page
     * Avarage FTE of developers
